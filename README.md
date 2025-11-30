@@ -82,7 +82,7 @@ Waveforms were verified in:
 
 Xilinx ISE Simulator
 
-Synopsys design Compiler
+
 
 
 
@@ -98,7 +98,7 @@ Configurable baud rate
 
 Status & control via APB registers
 
-Lint-clean RTL (synthesis-friendly)
+Lint-clean RTL 
 
 Modular design for reuse in SoC environments
 
