@@ -82,7 +82,7 @@ Waveforms were verified in:
 
 Xilinx ISE Simulator
 
-GTKWave (optional)
+Synopsys design Compiler
 
 
 
