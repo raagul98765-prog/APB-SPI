@@ -6,32 +6,6 @@ This project includes RTL design, testbenches, simulation, and synthesis-ready l
 
 ---
 
-📁 Project Structure
-
-APB-SPI/
-│
-├── rtl/
-│   ├── APB_slave.v
-│   ├── baudrate.v
-│   ├── shifter.v
-│   ├── slave_sel.v
-│   └── top_module.v
-│
-├── tb/
-│   ├── APB_slave_tb.v
-│   ├── baud_gen_tb.v
-│   ├── shifter_tb.v
-│   ├── slave_sel_tb.v
-│   └── top_module_tb.v
-│
-├── sim/
-│   └── (simulation outputs / waveforms)
-│
-└── README.md
-
-
----
-
 🔧 Tools Used
 
 Tool	Purpose
